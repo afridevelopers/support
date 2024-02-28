@@ -10,7 +10,7 @@ jobs:
       - name: Invite-on-label
         uses: vj-abigo/invite-on-label@v1.2
         with:
-          organization: infraform
+          organization: afridevelopers
           label: ✉️ github-invitation
           repo-token: ${{ secrets.REPO_GITHUB_TOKEN }}
           comment: "![image](https://raw.githubusercontent.com/afridevelopers/contribute/master/welcome_afridevelopers.gif)<br><b>Invitation sent to join the GitHub Organization. Welcome to Afridevelopers 🎉</b><br><br>Please check your mail to accept the invitation sent by GitHub! 🤖<br><h1>About us</h1>Afridevelopers is a remarkable open-source solution tailored for serverless platforms, aimed at empowering creators to craft their infrastructure solutions. 💻 We're thrilled to welcome you into our vibrant community! ✨ We eagerly anticipate your valuable contributions! 🤓 Don't forget to explore our community on [Github](https://github.com/afridevelopers) and connect with us on [LinkedIn](https://www.linkedin.com/company/afridevelopers/) 💜 Feel free to spread the word about our community to like-minded individuals interested in development, DevOps, technology, and collaborative contributions. 👉💜👈"
