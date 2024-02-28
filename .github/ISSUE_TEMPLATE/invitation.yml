@@ -1,8 +1,8 @@
-name: Invite me to the AfriDevelopers Community
+name: Invite me to the afridevelopers Community
 
 description: I would like to be part of the awesome community
 
-title: "Please invite me to the Infraform Community"
+title: "Please invite me to the afridevelopers Community"
 
 labels: [✉️ github-invitation]
 
@@ -27,7 +27,7 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Afridevelopers Community? What do you like about this community? Why do you want to join?
+      description: Where did you meet afridevelopers Community? What do you like about this community? Why do you want to join?
       placeholder: I would like to be part of the awesome community
     validations:
       required: false
