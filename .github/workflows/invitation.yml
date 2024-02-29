@@ -5,6 +5,8 @@ on:
 jobs:
   automate_invite:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
 
     steps:
       - name: Invite-on-label
